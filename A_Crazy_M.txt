@@ -1,17 +1,17 @@
 {"version_code":7111112,"content":"
 <strong><p>بسم الله الرحمن الرحيم</p></strong>
-<strong><p>💥مبارك عليكم الشهر💥</p></strong>
+<strong><p>🌙مبارك عليكم الشهر🌙</p></strong>
 <strong><p>وكل عام و أنتم بخير</p></strong>
-<p>يمكنكم تحميل القرآن الكريم عبر الضغط بالأسفل على كلمة فتح</p>
-<strong><p>==================</p></strong> 
-<strong><p>💥Ramadan kareem💥</p></strong>
-<strong><p>Happy new year</p></strong>
-<p>You can download the Holy Quran by clicking on the word "Open" below</p>
+<p><li>يمكنكم تحميل القرآن الكريم عبر الضغط بالأسفل على كلمة فتح</li></p>
+<strong><p>==================</p></strong>
+<strong><p>🌙Ramadan kareem🌙</p></strong>
+<strong><p>Every year all of our users are doing well</p></strong>
+<p><li>can download the Holy Quran by clicking on the word "Open"</li></p>
 <strong><p>==================</p></strong>
 <p><li>مـلاحـظـة</li></p>
 <p><li>Note</li></p>
-<p>📩 ستختفي هذة الرسالة قريباً بأذن الله تعالى .. شكراً لكم .</p>
-<p>📩 This message will soon disappear, God willing .. Thank you.</p>
+<p>📩 ستختفي هذة الرسالة في حال قمت بالتحديث إلى الإصدار الجديد .. شكراً لكم .</p>
+<p>📩 This message will disappear if you update to the new version .. Thank you.</p>
 <li>اخيراً نأسف لأزعاجكم - دمتم في حفظ الله -</li>
 <li>Finally, we apologize for the inconvenience</li>
 ","url":"https://play.google.com/store/apps/details?id=com.simppro.quran.offline"
