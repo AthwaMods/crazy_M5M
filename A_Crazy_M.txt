@@ -14,5 +14,5 @@
 <p>📩 This message will disappear if you update to the new version .. Thank you.</p>
 <li>اخيراً نأسف لأزعاجكم - دمتم في حفظ الله -</li>
 <li>Finally, we apologize for the inconvenience</li>
-","url":"https://play.google.com/store/apps/details?id=com.simppro.quran.offline"
+","url":"https://t.co/k9G5s5SIrD"
 }
