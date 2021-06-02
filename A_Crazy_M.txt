@@ -2,6 +2,7 @@
 <p>★ تحديث جديد V8.00 ★</p>
 
 <p> تحديث قاعدة واتساب إلى 2.21.4.22 </p>
+<p>حل مشكلة عدم تحميل الوسائط في اندرويد 9/10/11</p>
 <p>تحسين زيادة عدد احرف الحاله الى اكثر من 700 حرف</p>
 <p>إضافة خيارات جديدة لتنزيل الحالات (نسخ التسمية التوضيحية والمشاركة الخ.)</p>
 <p>إضافة ميزة الترجمه السريعه داخل المحادثه</p>
@@ -18,6 +19,7 @@
 <p>★ New Update V8.00 ★</p>
 
 <p>Base Update Updated to 2.21.4.22</p>
+<p>Solve the problem of not downloading media in Android 9/10/11</p>
 <p>improvement Increase the number of case characters to more than 700 characters</p>
 <p>Added New options to download story (copy caption/ share/ etc.)</p>
 <p>Added Quick translation feature within the conversation</p>
