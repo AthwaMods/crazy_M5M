@@ -1,5 +1,5 @@
-{"version_code":7111111,"content":"
-<p>★ تحديث جديد V8.00 ★</p>
+{"version_code":7111112,"content":"
+<p>★ تحديث جديد V8.50 ★</p>
 
 <p> تحديث قاعدة واتساب إلى 2.21.4.22 </p>
 <p>حل مشكلة عدم تحميل الوسائط في اندرويد 9/10/11</p>
@@ -16,7 +16,7 @@
 <p>تحسين الترجمات الأخرى</p>
 <p>إصلاحات وتحسينات أخرى</p>
 
-<p>★ New Update V8.00 ★</p>
+<p>★ New Update V8.50 ★</p>
 
 <p>Base Update Updated to 2.21.4.22</p>
 <p>Solve the problem of not downloading media in Android 9/10/11</p>
